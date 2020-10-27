@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 16,
+    "javascript.preferences.importModuleSpecifierEnding": "js",
+    "javascript.preferences.importModuleSpecifier": "relative",
+    "typescript.preferences.useAliasesForRenames": false,
+    "html.format.preserveNewLines": false,
+    "html.format.contentUnformatted": "",
+    "editor.autoSurround": "quotes"
+}
